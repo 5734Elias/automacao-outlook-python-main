@@ -15,9 +15,7 @@ Este repositório contém os códigos e materiais do curso **Automacao do Outloo
 - Download automático de anexos dos e-mails recebidos
 - **Projeto Final**: Automacao completa de e-mails com Python
 
-## 🎥 Aulas no YouTube
 
-As aulas estão sendo publicadas no **YouTube**! Assista agora na playlist: [🔗 Link para a playlist](https://www.youtube.com/playlist?list=PLOvouPKyYcDiTjrPBlYBmriWfG480LWHk)
 
 ---
 
