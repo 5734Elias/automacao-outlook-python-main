@@ -1,0 +1,1 @@
+# automacao-outlook-python-main
