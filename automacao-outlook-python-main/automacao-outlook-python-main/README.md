@@ -16,10 +16,3 @@ Este repositório contém os códigos e materiais do curso **Automacao do Outloo
 - **Projeto Final**: Automacao completa de e-mails com Python
 
 
-
----
-
-Para mais detalhes, você pode ver os exemplos neste repositório e também a documentação oficial da biblioteca pywin32: [🔗 pywin32](https://pypi.org/project/pywin32/). 
-
-Contribuições e feedbacks são bem-vindos! 🚀
-
